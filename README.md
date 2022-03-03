@@ -39,7 +39,10 @@ os principais requisitos para se tornar um profissional de UX são empatia, bom 
 
 #### Pecados da usabilidade
 
-[Padaria Ferragem](https://www.youtube.com/watch?v=0me2NyqR7A4) 
+[![IMAGE ALT TEXT](https://img.youtube.com/vi/0me2NyqR7A4/0.jpg)](https://www.youtube.com/watch?v=0me2NyqR7A4 "Padaria Ferragem")
+
+https://www.youtube.com/watch?v=0me2NyqR7A4
+
 
 #### Benefícios
 	
@@ -69,6 +72,8 @@ Wireframes existem para evitar trabalho desnecessário. É quase como um rascunh
 
 Protótipos são versões interativas dos wireframes, onde é possível clicar ou interagir com algumas partes da tela para simular como será o seu funcionamento –mesmo que ainda a funcionalidade ainda não tenha sido implementada corretamente. É como se fosse um rascunho do trabalho que depois será realizado pelo desenvolvedor front-end.
 
+![image](https://user-images.githubusercontent.com/6695037/156662933-7a0751e7-260b-4e0f-a849-c49c6c68a5de.png)
+
 #### Experiência de navegação
 
 A possibilidade de navegar pelo protótipo faz muita diferença na hora de “sentir” como o produto final funcionará. Ele simula o que acontece a cada Wireframes, protótipos e rabiscoframes clique, a cada interação – resultado esse, que só seria possível depois que o projeto já tivesse sido programado por um desenvolvedor front-end. Documentos mais enxutos Diferente dos wireframes estáticos, os protótipos permitem que você representa vários estados diferentes da interface em uma mesma  página. Quando o UX designer cria um wireframe em PDF , cada novo elemento que surge na tela (mesmo que ele não represente uma página separada na estrutura do site) precisa ser documentado em uma página diferente do documento. Já os protótipos permitem que  você veja os elementos em funcionamento no próprio contexto onde eles aparecem, fazendo com que o documento final seja bem mais enxuto do que os extensos PDF s com wireframes estáticos. Apresentação para clientes Designers e desenvolvedores estão acostumados a receber um wireframe  em PDF e abstrair o fato de que aquele documento é apenas uma representação de como a interface irá funcionar. Com os anos de profissão, eles se acostumam a conseguir visualizar como aquele wireframe se materializa uma vez que o produto começar a ser construído na linguagem final – seja um site em HTML, um aplicativo para iOS ou um game. Mas muitos clientes não estão acostumados a lidar com wireframes no dia a dia. Protótipos contribuem para que os clientes entendam melhor a proposta e agilizam a aprovação do trabalho. Nas reuniões de apresentação de trabalho, basta o UX designer pilotar a navegação e interagir com o protótipo na frente do cliente para que ele entenda como a interface funciona.
@@ -88,6 +93,11 @@ Organize: distribua os elementos da interface de forma que eles se encaixem em g
 Esconda: deixe apenas os itens mais importantes ao alcance (fazendo com que eles sejam óbvios), e esconda os outros, deixando-os acessíveis apenas por navegação.
 Mova: coloque algumas das funcionalidades em outro dispositivo ou outro lugar, de forma que a interface não fique responsável por mostrar todas as interações possíveis de uma vez só.
 
+![image](https://user-images.githubusercontent.com/6695037/156663004-e84e00fd-0a79-4c24-9702-60bf7ea229e7.png)
+
+![image](https://user-images.githubusercontent.com/6695037/156663081-35364811-979d-424f-8c3e-77df5d6c357d.png)
+
+
 #### Informações em pequenas doses
 
 Apresentar informações com simplicidade e no exato momento em que o usuário está procurando por ela já se tornou questão primordial na hora de diferenciar aplicativos e produtos de sucesso.
@@ -99,6 +109,9 @@ Qual o mínimo de informação que o usuário precisa saber para realizar aquela
 Qual a menor quantidade de texto possível (com menor número de caracteres) para explicar aquilo para ele?
 As imagens que você pretende colocar na interface estão contribuindo para que o usuário realize a tarefa com mais facilidade? Como essas imagens podem ser repensadas para, além do caráter decorativo, assumirem também um papel informativo e ajudá-lo no fluxo? Cuidado também  com excesso de banners e outros boxes que tentam chamar a atenção do usuário para algo que não é necessariamente essencial para realizar a tarefa que ele deseja. 
 Qual o mínimo de elementos de navegação que você precisa ter na tela naquele momento? O menu precisa ficar exposto o tempo todo? Daquela página, quais as outras páginas que o usuário  pode querer acessar? Uma dica importante nesse ponto é olhar para as métricas e ver em quais links os usuários estão realmente clicando. Considere excluir ou esconder os links menos clicados para deixar a interface mais simples. 
+
+![image](https://user-images.githubusercontent.com/6695037/156663195-4a61f2e4-94e2-4404-9e1e-0f52cd4910b5.png)
+
 
 #### Hierarquia
 
@@ -114,6 +127,8 @@ Categorize. Agrupe links por temas, em vez de simplesmente listá-los  na tela.
 Use tamanhos de fonte diferentes para criar hierarquia na página, mas limite a quantidade de tamanhos de fonte para manter harmonia.
 Tenha um bom equilíbrio de textos e imagens. Lembre-se que, dependendo da tarefa que o usuário está realizando, imagens nem sempre são bem-vindas. Se ele está no meio de um processo de pagamento, ima- gens podem acabar  tirando o foco da ação principal que você quer que ele faça.
 
+![image](https://user-images.githubusercontent.com/6695037/156663282-b294d75d-9886-4172-ae1b-e4b39a266c55.png)
+
 #### Direcione o usuário
 
 Um erro comum de sites e aplicativos é criar ruas sem saída para os usuários. Tenha certeza de que, em toda e qualquer tela do seu produto, está claro para o usuário o que ele deve fazer a seguir.
@@ -125,14 +140,21 @@ O usuário sabe o que fazer a seguir? A ação principal está nítida o suficie
 O botão onde eu quero que o usuário clique está claro? O texto do botão dá ao usuário alguma dica do que vem a seguir?
 Se essa tela é uma tela de confirmação no final de um fluxo, eu estou aproveitando para sugerir que o usuário faça algo mais, aumentando o tempo de navegação e o nível de  engajamento dele com o produto?
 
+![image](https://user-images.githubusercontent.com/6695037/156663536-4c436be6-f908-483e-9d62-88dd4633c7d5.png)
+
 
 #### Feedbacks claros
 
 A regra essencial de qualquer produto interativo é que toda ação tem que ter uma reação. E uma interface que responde imediatamente aos comandos do usuário contribui bastante para uma boa experiência.
 
+![image](https://user-images.githubusercontent.com/6695037/156663691-ddb3df59-e754-492c-8de8-c7cae0ac38b4.png)
+
+
 #### Evite erros
 
 Mais interessante ainda do que comunicar erros com clareza quando eles acontecem é evitar que eles aconteçam em primeiro lugar. Erros normalmente são causados por erros dos usuários ao interagirem com o sistema. Mas se você parar pra pensar, o erro do usuário é culpa da interface que não o guiou corretamente na hora de realizar a tarefa.
+
+![image](https://user-images.githubusercontent.com/6695037/156663941-1d79dfba-d413-442a-a3d4-a48bb325071a.png)
 
 #### Simplifique formulários
 
@@ -142,6 +164,8 @@ Alguma dessas informações pode ser coletada em um momento futuro?
 Está claro para o consumidor por que aquela informação está sendo solicitada?
 
 Ainda no assunto “formulários”, uma boa prática de usabilidade é ter certeza de que você está apresentando o melhor tipo de campo para o usuário. Quando o usuário precisa selecionar uma data, por exemplo, é muito mais fácil e muito mais familiar para ele apresentar as opções em formato de calendário –em vez de mostrar somente um campo texto e torcer para que ele digite a data no formato DD/MM/AAAA que você precisa.
+
+![image](https://user-images.githubusercontent.com/6695037/156664086-b57efb21-7ce6-4500-821b-aa8051937c01.png)
 
 #### Microtexto e a comunicação
 
@@ -157,9 +181,13 @@ Dan Saffer aborda o assunto “Microcopy” e dá algumas dicas úteis na hora d
  Teste seus textos com usuários reais. Mostre uma interação com micro- texto para eles e peça para eles dizerem em voz alta o que acham que acontecerá ao clicarem ou interagirem.
  Use linguagem humana, não de sistema. “Postado há 3 horas” é muito mais fácil de entender do que “postado em 04/03/2014 às 14h33” – um detalhe que acaba passando batido em muitos produtos por aí.  
 
+![image](https://user-images.githubusercontent.com/6695037/156664196-fec07f3c-6555-4eb4-be77-da78aa8dbaf6.png)
+
 ### Incorporando pesquisa com usuários
 
-[Home car design](https://www.youtube.com/watch?v=WPc-VEqBPHI)
+[![IMAGE ALT TEXT](https://img.youtube.com/vi/WPc-VEqBPHI/0.jpg)](https://www.youtube.com/watch?v=WPc-VEqBPHI "Home car design")
+
+https://www.youtube.com/watch?v=WPc-VEqBPHI
 
 Gerarem novas ideias de funcionalidades para os produtos, realizar pesquisas com usuários podem ser úteis para: 
 
