@@ -206,4 +206,4 @@ Você está usando informações colhidas dos usuários (qualitativamente ou qua
 
 [User eXperience](https://pt.slideshare.net/danielpazaraujo/user-experience-41887445)
 
-(The Homer Simpson car is a great lesson in building products)[https://uxdesign.cc/the-homer-simpson-car-is-a-great-lesson-in-building-products-597da30ba348]
+[The Homer Simpson car is a great lesson in building products](https://uxdesign.cc/the-homer-simpson-car-is-a-great-lesson-in-building-products-597da30ba348)
